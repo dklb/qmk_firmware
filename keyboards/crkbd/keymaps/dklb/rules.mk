@@ -9,4 +9,4 @@ OLED_DRIVER_ENABLE  = yes
 #   ATmega32A    bootloadHID
 #   ATmega328P   USBasp
 #// comment out next line to flash promicro, uncomment for elite-c
-#BOOTLOADER = qmk-dfu
+BOOTLOADER = qmk-dfu
