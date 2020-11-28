@@ -1,5 +1,6 @@
 OLED_DRIVER_ENABLE  = yes
 RGBLIGHT_ENABLE = yes
+EXTRAKEY_ENABLE = yes
 
 # Bootloader selection
 #   Teensy       halfkay
