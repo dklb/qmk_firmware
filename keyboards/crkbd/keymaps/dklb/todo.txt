@@ -1,6 +1,6 @@
 tapping term to 150
 remove reset key
 bug: double tapping any top row key in the Raise layer (Symbols) opens iterm. (Only happens when hotkey is set to doubletap space, not when it's ctrl)
-make sure that KC_LSFT is mapped on WASD layer.
+make sure that KC_LSFT & CTRL is mapped on WASD layer. & change TAB to OPT
 Add Tap-Dance KC_LSFT -> KC_CAPS
 fix up LED lighting settings
