@@ -1,2 +1,3 @@
 Edit keymap to approximate corne:dklb.
 flash command is "make reviung41:dklb:dfu" and needs to be run from ~/Code/qmk_...
+Adjust layer isn't accessible for some reason.
